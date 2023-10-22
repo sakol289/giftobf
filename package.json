@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@fortune-inc/tw-voucher": "^1.0.10",
+    "chalk": "^5.2.0",
+    "facebook-chat-api": "^1.8.0",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "https-proxy-agent": "^5.0.1",
+    "jsonfile": "^6.1.0",
+    "node-cron": "^3.0.2",
+    "node-hwid": "^0.1.0",
+    "node-machine-id": "^1.1.12",
+    "open": "^8.4.0",
+    "qs": "^6.10.3",
+    "randomstring": "^1.2.2"
+  }
+}
